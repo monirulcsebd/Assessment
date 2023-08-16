@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OneTech\\Desktop\\Assessment\\TransactionManagementAPI\\TransactionManagementAPI\\TransactionManagementAPI.csproj": {}
+    "C:\\Users\\OneTech\\Desktop\\Assessment\\Assessment\\TransactionManagementAPI\\TransactionManagementAPI\\TransactionManagementAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OneTech\\Desktop\\Assessment\\TransactionManagementAPI\\TransactionManagementAPI\\TransactionManagementAPI.csproj": {
+    "C:\\Users\\OneTech\\Desktop\\Assessment\\Assessment\\TransactionManagementAPI\\TransactionManagementAPI\\TransactionManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OneTech\\Desktop\\Assessment\\TransactionManagementAPI\\TransactionManagementAPI\\TransactionManagementAPI.csproj",
+        "projectUniqueName": "C:\\Users\\OneTech\\Desktop\\Assessment\\Assessment\\TransactionManagementAPI\\TransactionManagementAPI\\TransactionManagementAPI.csproj",
         "projectName": "TransactionManagementAPI",
-        "projectPath": "C:\\Users\\OneTech\\Desktop\\Assessment\\TransactionManagementAPI\\TransactionManagementAPI\\TransactionManagementAPI.csproj",
+        "projectPath": "C:\\Users\\OneTech\\Desktop\\Assessment\\Assessment\\TransactionManagementAPI\\TransactionManagementAPI\\TransactionManagementAPI.csproj",
         "packagesPath": "C:\\Users\\OneTech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OneTech\\Desktop\\Assessment\\TransactionManagementAPI\\TransactionManagementAPI\\obj\\",
+        "outputPath": "C:\\Users\\OneTech\\Desktop\\Assessment\\Assessment\\TransactionManagementAPI\\TransactionManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OneTech\\AppData\\Roaming\\NuGet\\NuGet.Config",
